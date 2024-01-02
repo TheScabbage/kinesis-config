@@ -1,0 +1,17 @@
+<base>
+[del]>[spc]
+[s]>[a]
+[w]>[x]
+[r]>[d]
+[f]>[h]
+[d]>[scol]
+[e]>[comm]
+{hk1}>{x1}{-lctr}{i}{+lctr}
+
+<keypad>
+
+<function1>
+
+<function2>
+
+<function3>
