@@ -1,9 +1,18 @@
 <base>
+[ent]>[del]
+[pgdn]>[end]
+[rwin]>[lalt]
+[hyph]>[bsls]
+[bsls]>[obrk]
+[cbrk]>[eql]
+[obrk]>[hyph]
+[home]>[rwin]
+[end]>[home]
 [del]>[spc]
-[a]>[lshf]
+[a]>[g]
 [q]>[t]
 [eql]>[esc]
-[esc]>[eql]
+[esc]>[cbrk]
 [s]>[a]
 [w]>[q]
 [r]>[e]
@@ -12,6 +21,8 @@
 [e]>[w]
 [t]>[r]
 [g]>[f]
+{hk1}>{x1}{-lctr}{i}{+lctr}
+{hk2}>{x1}{-lctr}{perd}{+lctr}
 
 <keypad>
 

@@ -1,4 +1,18 @@
 <base>
+[ent]>[del]
+[pgdn]>[end]
+[rwin]>[lalt]
+[hyph]>[bsls]
+[bsls]>[obrk]
+[cbrk]>[eql]
+[obrk]>[hyph]
+[home]>[rwin]
+[end]>[home]
+[del]>[ent]
+[eql]>[esc]
+[esc]>[cbrk]
+{hk1}>{x1}{-lctr}{i}{+lctr}
+{hk2}>{x1}{-lctr}{perd}{+lctr}
 
 <keypad>
 

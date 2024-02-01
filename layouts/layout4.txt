@@ -1,12 +1,30 @@
 <base>
+[pgdn]>[end]
+[rwin]>[lalt]
+[hyph]>[bsls]
+[bsls]>[obrk]
+[cbrk]>[eql]
+[obrk]>[hyph]
+[n]>[b]
+[home]>[rwin]
+[end]>[home]
 [del]>[spc]
+[a]>[lshf]
+[eql]>[esc]
+[esc]>[cbrk]
+[x]>[i]
 [s]>[a]
 [w]>[x]
 [r]>[d]
 [f]>[h]
+[v]>[i]
 [d]>[scol]
 [e]>[comm]
+[t]>[o]
+[g]>[y]
+[b]>[n]
 {hk1}>{x1}{-lctr}{i}{+lctr}
+{hk2}>{x1}{-lctr}{perd}{+lctr}
 
 <keypad>
 

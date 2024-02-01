@@ -12,8 +12,8 @@
 [del]>[ent]
 [eql]>[esc]
 [esc]>[cbrk]
-{lalt}{hk1}>{x1}{+lalt}{-lctr}{i}{+lctr}
-{lalt}{hk2}>{x1}{+lalt}{-lctr}{perd}{+lctr}
+{hk1}>{x1}{-lctr}{i}{+lctr}
+{hk2}>{x1}{-lctr}{perd}{+lctr}
 
 <keypad>
 
