@@ -1,14 +1,17 @@
 <base>
-[ent]>[del]
+[ent]>[lshf]
 [pgdn]>[end]
 [pgup]>[sclk]
 [rwin]>[lalt]
 [hyph]>[bsls]
 [bsls]>[obrk]
+[rshf]>[del]
 [cbrk]>[eql]
 [obrk]>[hyph]
+[hk3]>[plpa]
+[hk4]>[5mou]
 [home]>[rwin]
-[end]>[home]
+[end]>[fn1s]
 [del]>[ent]
 [eql]>[esc]
 [esc]>[cbrk]
@@ -18,6 +21,26 @@
 <keypad>
 
 <function1>
+[o]>[9]
+[i]>[8]
+[u]>[7]
+[l]>[6]
+[k]>[5]
+[j]>[4]
+[perd]>[3]
+[comm]>[2]
+[m]>[1]
+[down]>[0]
+[pgdn]>[home]
+{x}>{s9}{-lshf}{1}{+lshf}
+{c}>{s9}{-lshf}{2}{+lshf}
+{v}>{s9}{-lshf}{3}{+lshf}
+{s}>{s9}{-lshf}{4}{+lshf}
+{d}>{s9}{-lshf}{5}{+lshf}
+{f}>{s9}{-lshf}{6}{+lshf}
+{w}>{s9}{-lshf}{7}{+lshf}
+{e}>{s9}{-lshf}{8}{+lshf}
+{r}>{s9}{-lshf}{9}{+lshf}
 
 <function2>
 
