@@ -20,7 +20,6 @@
 
 <keypad>
 
-
 <function1>
 [ent]>[rshf]
 [del]>[ent]
@@ -47,8 +46,8 @@
 {e}>{s9}{hyph}
 {r}>{s9}{eql}
 {t}>{s9}{-lshf}{4}{+lshf}
-{y}>{s9}{-lshf}{3}{+lshf}
-{p}>{s9}{-lshf}{bsls}{+lshf}
+{y}>{s9}{-lshf}{bsls}{+lshf}
+{p}>{s9}{-lshf}{3}{+lshf}
 {a}>{s9}{kp-}
 {s}>{s9}{-lshf}{cbrk}{+lshf}
 {d}>{s9}{-lshf}{9}{+lshf}
