@@ -23,6 +23,7 @@
 <function1>
 [ent]>[rshf]
 [del]>[ent]
+[home]>[rwin]
 
 [o]>[kp9]
 [i]>[kp8]
