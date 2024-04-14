@@ -58,8 +58,8 @@
 {h}>{s9}{-lshf}{8}{+lshf}
 {scol}>{s9}{-lshf}{apos}{+lshf}
 {z}>{s9}{-lshf}{1}{+lshf}
-{x}>{s9}{kp-}
-{c}>{s9}{-lshf}{cbrk}{+lshf}
+{x}>{s9}{-lshf}{cbrk}{+lshf}]
+{c}>{s9}{kp-}
 [v]>[cbrk]
 {b}>{s9}{bsls}
 {n}>{s9}{obrk}
